@@ -10,6 +10,6 @@ TRX: TUQZYoPzougXdkbLMgLMAhhFFLdVyPcqjJ
 Lunc: terra1qj24u93acflek8cs24lqfs9kc9nvajsz6qftns
 
 <!---
-tamnt610/tamnt610 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+tamnt610/ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
